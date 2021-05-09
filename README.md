@@ -24,6 +24,8 @@ Aplicação mobile para simular o jogo do cara ou coroa, código fonte do projet
 ## :camera: Screenshot
 
 <p align="center"> <img src="https://github.com/PauloAlves8039/flutter-cara-ou-coroa/blob/master/assets/imagens/screenshot.png" /> </p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/flutter-cara-ou-coroa/blob/master/assets/imagens/screenshot1.png" /> </p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/flutter-cara-ou-coroa/blob/master/assets/imagens/screenshot2.png" /> </p>
 
 ## Author
 
